@@ -1,0 +1,34 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    background-color: whitesmoke;
+}
+
+.header1 h1 {
+    color: blueviolet;
+    text-align: center;
+}
+.like_list ol h2 {
+    color: coral;
+    text-align: left;
+    text-decoration: dashed;
+}
+#header1_list li {
+    text-align: justify;
+    text-justify: distribute;
+    font-size:2em ;
+    justify-content: center;
+    color: crimson;
+    opacity: 0.8;
+}
+.header2 {
+    text-align: center;
+    color: darkblue;
+}
+#header2_list {
+    text-align: justify;
+    list-style-type: circle;
+    font-size:2em ;
+    color: darkmagenta;
+    opacity: 1;
+}
+
